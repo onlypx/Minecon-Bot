@@ -1,0 +1,44 @@
+
+------------------------------------------------------------
+Thu May 14 2026 13:25:48 GMT-0300 (Horário Padrão de Brasília)
+
+[1G[0K\[1G[0K
+> mush-bedwars-bot@1.0.0 start
+> node index.js
+
+[1G[0K\[1G[0KHealth check server running on port 3000
+🤖 Bot logado como Minecon#9220
+[Minecon] Ligado como Minecon#9220
+(node:19) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+✅ Comandos registrados!
+🎮 Conectando ao servidor mush.com.br:25565...
+🔐 Bot autenticado: desceequebra
+✅ Bot Minecraft entrou no mundo: desceequebra
+🎭 Iniciando comportamento humano...
+✅ Bot Minecraft entrou no mundo: desceequebra
+🎭 Iniciando comportamento humano...
+⚠️ Erro de rede: client timed out after 30000 milliseconds
+❌ Erro no bot Minecraft: client timed out after 30000 milliseconds
+⚠️ Bot desconectou: keepAliveError
+[DISCORD] Bot desconectou: keepAliveError, tentando reconectar...
+
+------------------------------------------------------------
+Thu May 14 2026 17:17:47 GMT-0300 (Horário Padrão de Brasília)
+
+[1G[0K\[1G[0K
+> mush-bedwars-bot@1.0.0 start
+> node index.js
+
+[1G[0K\[1G[0KHealth check server running on port 3000
+🤖 Bot logado como Minecon#9220
+[Minecon] Ligado como Minecon#9220
+(node:19) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+✅ Comandos registrados!
+🎮 Conectando ao servidor mush.com.br:25565...
+🔐 Bot autenticado: desceequebra
+✅ Bot Minecraft entrou no mundo: desceequebra
+🎭 Iniciando comportamento humano...
+✅ Bot Minecraft entrou no mundo: desceequebra
+🎭 Iniciando comportamento humano...
