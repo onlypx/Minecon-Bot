@@ -202,4 +202,8 @@ O botirá:
 ### Exemplos
 
 <img width="689" height="100" alt="image" src="https://github.com/user-attachments/assets/edcbb2e8-45a2-4a12-bec5-5896cc132cc9" />
+<img width="305" height="466" alt="mineconbot" src="https://github.com/user-attachments/assets/2e88d3c0-5c05-4f06-8aba-d158f2d51533" />
+<img width="692" height="195" alt="image" src="https://github.com/user-attachments/assets/1f11e50f-ceae-4bf7-accf-3b137e66f465" />
+
+
 
