@@ -192,11 +192,14 @@ O botirá:
 
 ### "API indisponível"
 
-<img width="689" height="100" alt="image" src="https://github.com/user-attachments/assets/5fdbcde0-b5c6-4905-bbb1-51affbd5e5d6" />
-
 - A API do Mush pode estar offline temporariamente
 - Verifique sua conexão com a internet
 
 ### "Jogador não encontrado"
 - O jogador pode não existir no servidor
 - Ou pode estar com nome diferente no jogo
+
+### Exemplos
+
+<img width="689" height="100" alt="image" src="https://github.com/user-attachments/assets/edcbb2e8-45a2-4a12-bec5-5896cc132cc9" />
+
