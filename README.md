@@ -191,6 +191,9 @@ O botirá:
 - Tente fazer login manualmente primeiro
 
 ### "API indisponível"
+
+<img width="689" height="100" alt="image" src="https://github.com/user-attachments/assets/5fdbcde0-b5c6-4905-bbb1-51affbd5e5d6" />
+
 - A API do Mush pode estar offline temporariamente
 - Verifique sua conexão com a internet
 
